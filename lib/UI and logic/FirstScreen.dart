@@ -133,7 +133,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   crossAxisAlignment: CrossAxisAlignment.end,
                   children: [
                     Text(
-                      hideinp ? "" : input,
+                      hideinp ? "" : input, //false "", true input
                       style: const TextStyle(
                         fontSize: 46,
                         color: Colors.white,
