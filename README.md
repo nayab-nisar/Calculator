@@ -31,6 +31,8 @@ The Calculator App relies on several packages to facilitate its functionality:
 
 4. `path_provider`: Used to access the device's file system path.
 
-5. `typed_data`: Utilized for working with low-level binary data.
+6. `expression and contextmodel`: Used to solve the mathematical expressions for my caculator functions.
+
+7. `typed_data`: Utilized for working with low-level binary data.
 
 Please refer to the respective Dart files and package documentation for more details on their usage and implementation within the Calculator App.
