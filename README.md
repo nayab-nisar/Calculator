@@ -1,6 +1,6 @@
 # Calculator App
 
-The Calculator App is an application that allows users to enter a specific code to access a hidden screen. In the hidden screen, users can hide images from their device's gallery and save selected images within the application.
+The Calculator App is an application that allows users to enter a specific code to access a hidden screen. In the hidden screen, users can hide images from their device's gallery and save selected images within the application they can also unhide the images if they want.
 
 ## Dart Files
 The project consists of multiple Dart files, organized as follows:
